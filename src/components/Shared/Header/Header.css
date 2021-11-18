@@ -1,0 +1,29 @@
+.headerimg {
+    width: 60px;
+    height: 50px;
+    border-radius: 25px;
+    margin-right: 10px;
+}
+.nav-menu{
+    color: rgb(123, 228, 228);
+}
+.logout {
+    font-size: large;
+    font-weight: 600;
+    cursor: pointer;
+    color: white;
+}
+.logout:hover {
+    color: #f74773;
+}
+.word-color {
+    color:#f74773;
+}
+.username {
+    margin-right: 10px;
+    color: white;
+}
+.username:hover {
+    color: #f74773;
+    /* color: rgb(194, 193, 193); */
+}

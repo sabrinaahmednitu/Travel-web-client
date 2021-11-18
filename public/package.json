@@ -1,0 +1,93 @@
+[
+      {   
+     
+      "name": "swizerland",
+      "key": "1",
+      "price":400,
+      "img": "https://images.pexels.com/photos/2734521/pexels-photo-2734521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description":" turn any screen into a stage for stirring emotion,MW M wallpapers will any screen into a stage for stirring emotion, diversity of BMW Individual,BMW Individual, "
+    },
+     {   
+       
+        "name": "Germany",
+        "price":300,
+        "key": "2",
+        "img": "https://images.pexels.com/photos/2705755/pexels-photo-2705755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description":"brands like commercial vehicles, Marcopolo S.A. and Hitachi for bus manufacturing and even construction equipment as well. "
+    },
+     {   
+       
+        "name": "Austria",
+        "price":700,
+        "key": "3",
+        "img": "https://images.pexels.com/photos/59516/pexels-photo-59516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description":" exquisite technology and unique luxury. Whether it's images of high-performance dazzling diversity of BMW Individual"
+      
+      
+      
+    },
+     {
+       
+        "name": "Newziland",
+        "price":260,
+        "key": "4",
+        "img": "https://images.pexels.com/photos/2960284/pexels-photo-2960284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description":" Whether it's images of high-performance name on the road or the racetrack, fantastic and unique models or the dazzling diversity of BMW Individual,"
+    },
+     {
+       
+        "name": "France",
+        "price":400,
+        "key": "5",
+        "img": "https://images.pexels.com/photos/3084567/pexels-photo-3084567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description":"luxury. Whether it's images of high-performance name on the road or the racetrack, fantastic and unique models or the dazzling diversity of BMW Individual,."
+    },
+    {
+       
+        "name": "UK",
+        "price":450,
+        "key": "6",
+        "img": "https://images.pexels.com/photos/1007977/pexels-photo-1007977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description":" Suzuki is India's largest namemaker. The Maruti Suzuki line-up comprises hatchbacks, sedans, MPVs and an SUV. Popular"
+    },
+    {
+       
+        "name": "Netherland",
+        "price":1500,
+        "key": "7",
+        "img": "https://images.pexels.com/photos/6023546/pexels-photo-6023546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description":"It seems every new vehicle we drive is both more powerful and more fuel-efficient than its predecessor. More comfortable a"
+    },
+      {
+       
+        "name": "Zurikh",
+        "price":650,
+        "key": "9",
+        "img": "https://images.pexels.com/photos/3767791/pexels-photo-3767791.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "description":"MW M wallpapers will turn any screen into a stage for stirring emotion, road or the racetrack, fantastic and unique models or the Individual,"
+    },
+     {
+       
+        "name": "Japan",
+        "price":350,
+        "key": "10",
+        "img": " https://images.pexels.com/photos/2647722/pexels-photo-2647722.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "description":"We use cookies – including third-party cookies – to collect information about how visitors use our websites. They help us give you the best"
+    },
+     {
+       
+        "name": "China",
+        "price":500,
+        "key": "11",
+        "img": "https://images.pexels.com/photos/5769690/pexels-photo-5769690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description":"always insisted that the Maruti 800 is more popular within semi-urban / rural cities than in the large metros. This statement is validated by the fact that"
+    },
+    {
+       
+        "name": "Nagaland",
+        "price":430,
+        "key": "12",
+        "img":"https://images.unsplash.com/photo-1636785427795-6d9efb889e8b?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE4fDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "description":"always insisted that the Maruti 800 is more popular within semi-urban / rural cities than in the large metros. This statement is"
+    }
+]

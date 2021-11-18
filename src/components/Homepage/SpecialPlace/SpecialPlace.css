@@ -1,0 +1,34 @@
+.special-place {
+    background-color: white;
+    padding: 50px 0;
+}
+.special-place h4 {
+    color: #f74773;
+}
+.special-place h1 {
+    margin: 15px 0;
+    font-size: 55px;
+    color: #fffffe;
+}
+.special-place p {
+    color: black;
+}
+.button-style {
+    margin: 15px 0;
+    padding: 18px 40px;
+    color: #fffffe;
+    background-color: #f391aa;
+    border: 2px solid #f391aa;
+    border-radius: 50px;
+}
+.button-style:hover {
+    background-color: #f74773;
+}
+.special-place img {
+    margin-top: 15px;
+}
+.world i {
+    font-size: 45px;
+    margin: 10px 0;
+    color: #f74773;
+}
