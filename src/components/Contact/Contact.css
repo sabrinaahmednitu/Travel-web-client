@@ -1,27 +1,35 @@
-.contact-banner {
-    background-image: url(https://smartdemowp.com/travio/wp-content/uploads/2021/03/page-title-5.jpg);
-    background-size: 100% 100%;
-    height: 300px;
+.allContact-Card{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+    justify-content: center;
+      margin-top: 30px;
+}
+
+.card{
+  
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 30px 40px 0px rgb(6 26 58 / 10%);
+    display: block;
+    margin: auto;
+
+   
+   
+}
+
+.card-container{
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
-.contact-banner{
-    color: #bafcfc;
-    font-size: 50px;
-    font-weight: 800;
+.icon{
+  margin-right: 20px;
 }
-.info-box {
-    position: relative;
-    display: block;
-    background: #ffffff;
-    padding: 30px;
-    /* padding: 50px 30px 47px 120px; */
-    border-radius: 10px;
-    box-shadow: 0px 30px 40px 0px rgb(6 26 58 / 10%);
-}
+
 /* @media only screen and (min-width: 688px) and (max-width: 992px)  */
-@media only screen and (max-width: 668px) {
+/* @media only screen and (max-width: 668px) {
     .contact-card {
         display: flex;
         flex-direction: column;
@@ -31,4 +39,16 @@
         height: 56vh;
         border-radius: 20px;
     }
+} */
+
+@media only screen and (max-width:576px){
+    .allContact-Card{
+    grid-template-columns: repeat(1,1fr);
+}
+}
+
+@media only screen and (min-width: 577px) and (max-width:992px){
+    .allContact-Card{
+    grid-template-columns: repeat(2,1fr);
+}
 }
